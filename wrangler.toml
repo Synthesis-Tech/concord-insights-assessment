@@ -1,0 +1,7 @@
+name = "concord-insights"
+compatibility_date = "2025-10-27"
+pages_build_output_dir = "."
+
+[env.production]
+name = "concord-insights-production"
+compatibility_date = "2025-10-27"
